@@ -484,10 +484,11 @@
     ]
   ],
   "bar.workspaces.showApplicationIcons": false,
-  "bar.workspaces.ignored": "^-9[78]$",
+  "bar.workspaces.ignored": "^-[0-9]+$",
   "theme.bar.transparent": true,
   "theme.bar.buttons.workspaces.smartHighlight": true,
   "theme.bar.buttons.spacing": "0.25em",
   "theme.bar.buttons.padding_x": "0.7rem",
-  "theme.bar.buttons.y_margins": "0.2em"
+  "theme.bar.buttons.y_margins": "0.2em",
+  "wallpaper.image": ""
 }
