@@ -427,7 +427,7 @@
       ]
     }
   },
-  "bar.autoHide": "fullscreen",
+  "bar.autoHide": "never",
   "theme.osd.enable": true,
   "menus.volume.raiseMaximumVolume": false,
   "theme.bar.floating": false,
@@ -490,5 +490,6 @@
   "theme.bar.buttons.spacing": "0.25em",
   "theme.bar.buttons.padding_x": "0.7rem",
   "theme.bar.buttons.y_margins": "0.2em",
-  "wallpaper.image": ""
+  "wallpaper.image": "",
+  "theme.bar.layer": "bottom"
 }
